@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://krunalw.github.io/myportfolio",
   "dependencies": {
+    "bootstrap": "^4.1.2",
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
     "react-bootstrap": "^0.32.1",
